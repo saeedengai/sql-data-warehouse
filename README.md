@@ -2,7 +2,6 @@
 
 Welcome to the **Data Warehouse & Analytics Project** repository! 🚀  
 This portfolio project walks through an end-to-end data warehousing and analytics solution—from standing up a warehouse to producing actionable insights—while showcasing best practices in data engineering and analytics.
-Built during the Udemy course taught by Baraa Khatib Salkini; course materials © their owners
 
 ---
 ## Project Overview
